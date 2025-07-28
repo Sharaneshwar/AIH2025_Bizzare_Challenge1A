@@ -1,4 +1,4 @@
-# PDF to Markdown/Outline Extractor
+# Adobe India Hackathon - Team Bizzare - Round 1A
 
 This project processes PDF files and extracts their headings and structure into Markdown and a JSON outline, using font-size heuristics and vertical grouping.  
 It is designed for use in Docker environments and does **not** require a machine learning classifier.
