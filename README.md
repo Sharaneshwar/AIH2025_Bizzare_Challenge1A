@@ -55,7 +55,6 @@ docker run --rm -v "$PWD/input":/app/input -v "$PWD/output":/app/output pdf-outl
       "text": "First Section",
       "page": 2
     }
-    // ...
   ]
 }
 ```
